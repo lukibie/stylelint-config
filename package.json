@@ -1,0 +1,33 @@
+{
+  "name": "@lukaszbieniek/stylelint-config",
+  "version": "0.1.0",
+  "description": "Shareable stylelint config",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszbieniek/stylelint-config.git"
+  },
+  "main": "index.js",
+  "files": [
+    "/index.js"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.1.2",
+    "stylelint": "^13.7.2"
+  },
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0"
+  },
+  "devDependencies": {
+    "@lukaszbieniek/semantic-release-config": "^1.0.0",
+    "semantic-release": "^17.1.2",
+    "stylelint": "^13.7.2"
+  }
+}
