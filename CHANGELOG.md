@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/lukaszbieniek/stylelint-config/compare/v2.0.0...v2.0.1) (2020-12-09)
+
+
+### Bug Fixes
+
+* disable unicode-bom rule ([4658037](https://github.com/lukaszbieniek/stylelint-config/commit/465803788a857131cb17339737e34e3c50d2c3a8))
+* update deps ([0e7f037](https://github.com/lukaszbieniek/stylelint-config/commit/0e7f037ebbc62a4345b2429526623364bec11b6c))
+
 # [2.0.0](https://github.com/lukaszbieniek/stylelint-config/compare/v1.0.0...v2.0.0) (2020-10-11)
 
 
