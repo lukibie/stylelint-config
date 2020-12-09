@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/lukaszbieniek/stylelint-config/compare/v2.0.1...v2.0.2) (2020-12-09)
+
+
+### Bug Fixes
+
+* repair syntax error ([7aff3df](https://github.com/lukaszbieniek/stylelint-config/commit/7aff3dfca354999a81639e3e41d12e6aac6f35b9))
+
 ## [2.0.1](https://github.com/lukaszbieniek/stylelint-config/compare/v2.0.0...v2.0.1) (2020-12-09)
 
 
