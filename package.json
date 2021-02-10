@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@lukaszbieniek/semantic-release-config": "^2.0.0",
-    "semantic-release": "^17.3.0",
+    "semantic-release": "^17.3.8",
     "stylelint": "^13.8.0"
   }
 }
