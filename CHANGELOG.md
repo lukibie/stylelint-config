@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/lukaszbieniek/stylelint-config/compare/v2.0.2...v3.0.0) (2021-03-18)
+
+
+### chore
+
+* simplify configuration ([dbf74b6](https://github.com/lukaszbieniek/stylelint-config/commit/dbf74b6cfb01e8264002cb43de21561da7a5805c))
+
+
+### BREAKING CHANGES
+
+* remove unnecessary plugins
+
 ## [2.0.2](https://github.com/lukaszbieniek/stylelint-config/compare/v2.0.1...v2.0.2) (2020-12-09)
 
 
