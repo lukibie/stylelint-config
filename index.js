@@ -3,10 +3,10 @@ module.exports = {
   plugins: ["stylelint-order"],
   rules: {
     "order/properties-alphabetical-order": true,
-    "selector-type-no-unknown": [true, { ignoreTypes: ["/^lbui-/"] }],
+    "selector-type-no-unknown": [true, { ignoreTypes: ["/^lb-/"] }],
     "at-rule-no-unknown": [
       true,
-      { ignoreAtRules: ["/^lbui/", "/^define-mixin/", "/^mixin/"] },
+      { ignoreAtRules: ["/^lb-/", "/^define-mixin/", "/^mixin/"] },
     ],
   },
 };
