@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/lukaszbieniek/stylelint-config/compare/v3.0.0...v3.0.1) (2021-03-20)
+
+
+### Bug Fixes
+
+* change prefix for custom at-rules and selectors ([c479e26](https://github.com/lukaszbieniek/stylelint-config/commit/c479e26821d01634670619df9084191a9119b8d8))
+
 # [3.0.0](https://github.com/lukaszbieniek/stylelint-config/compare/v2.0.2...v3.0.0) (2021-03-18)
 
 
