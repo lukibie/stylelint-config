@@ -18,7 +18,7 @@
   "dependencies": {
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^21.0.0",
-    "stylelint-order": "^4.1.0"
+    "stylelint-order": "^6.0.4"
   },
   "devDependencies": {
     "@lukaszbieniek/semantic-release-config": "^2.0.0",
