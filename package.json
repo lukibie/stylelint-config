@@ -13,7 +13,7 @@
   ],
   "peerDependencies": {
     "prettier": "^2.2.1",
-    "stylelint": "^13.12.0"
+    "stylelint": "^16.10.0"
   },
   "dependencies": {
     "stylelint-config-prettier": "^8.0.2",
@@ -23,6 +23,6 @@
   "devDependencies": {
     "@lukaszbieniek/semantic-release-config": "^2.0.0",
     "semantic-release": "^17.4.2",
-    "stylelint": "^13.12.0"
+    "stylelint": "^16.10.0"
   }
 }
